@@ -87,13 +87,14 @@ Example visualization:
 
 ## How to Run
 
-### 1. Clone the Repository
+###  Clone the Repository
 
-bash
+```bash
 git clone https://github.com/yourusername/face-mask-detection.git
 cd face-mask-detection
 pip install -r requirements.txt
 jupyter notebook Face_Mask_Detection.ipynb
+```
 
 
 ## Dependencies
